@@ -1,0 +1,7 @@
+= TimObj
+
+A perl library that provides the base object class for TimApp and related libraries
+
+== Features
+* Interfaces with TimUtil and timDB
+
